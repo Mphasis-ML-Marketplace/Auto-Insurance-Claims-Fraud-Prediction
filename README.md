@@ -3,7 +3,7 @@
 ## Product Overview
 Fraudulent claims are a major challenge faced by insurance providers. Using manual methods are time consuming and costly. This solution helps insurance providers predict whether a claim is fraudulent or not to support the decision-making process. This solution considers various policy, demographic, and incident details related to the claim to return a probability score.
 
-## Highlihgts
+## Highlights
 * This solution provides a cost-efficient way to predict fraudulent auto insurance claims.
 * This solution uses various policy, demographic, and incident details related to the claim to return a probability score.
 * Mphasis HyperGraf is an omni-channel customer 360 analytics solution. Need customized Deep Learning/NLP solutions? Get in touch!
